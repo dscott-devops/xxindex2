@@ -1,6 +1,6 @@
 # README
 
-## Finance Tracker Application
+## XXIndex fork from Finance Tracker
 
 Rails 6
 Ruby 3
