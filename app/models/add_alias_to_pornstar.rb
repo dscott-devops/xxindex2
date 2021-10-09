@@ -1,0 +1,2 @@
+class AddAliasToPornstar < ApplicationRecord
+end

@@ -1,4 +1,5 @@
 Rails.application.routes.draw do
+  get 'static/index'
   resources :user_stocks, only: [:create, :destroy]
   resources :friendships, only: [:destroy]
   devise_for :users

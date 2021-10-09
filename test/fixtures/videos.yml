@@ -1,0 +1,41 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  site: MyString
+  embed: MyText
+  pornstars: MyText
+  category: MyText
+  duration: 1
+  views: 1
+  likes: 1
+  dislikes: 1
+  bigthumb: MyText
+  bigthumbs: MyText
+  weblink: MyText
+  title: MyText
+  thumb: MyString
+  tags: MyText
+  video_id: 1
+  thumbs: MyText
+  preview: MyText
+  description: MyText
+
+two:
+  site: MyString
+  embed: MyText
+  pornstars: MyText
+  category: MyText
+  duration: 1
+  views: 1
+  likes: 1
+  dislikes: 1
+  bigthumb: MyText
+  bigthumbs: MyText
+  weblink: MyText
+  title: MyText
+  thumb: MyString
+  tags: MyText
+  video_id: 1
+  thumbs: MyText
+  preview: MyText
+  description: MyText

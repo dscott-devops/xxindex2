@@ -1,0 +1,45 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  dob: 2021-10-05
+  from: MyString
+  years: MyString
+  ethnicity: MyString
+  nationality: MyString
+  measurements: MyString
+  brasize: MyString
+  height: 1
+  weight: 1
+  bodytype: MyString
+  eyecolor: MyString
+  hair: MyString
+  show: MyString
+  solo: false
+  lesbian: false
+  sex: MyString
+  hetero: false
+  special: MyText
+  story: MyText
+
+two:
+  name: MyString
+  dob: 2021-10-05
+  from: MyString
+  years: MyString
+  ethnicity: MyString
+  nationality: MyString
+  measurements: MyString
+  brasize: MyString
+  height: 1
+  weight: 1
+  bodytype: MyString
+  eyecolor: MyString
+  hair: MyString
+  show: MyString
+  solo: false
+  lesbian: false
+  sex: MyString
+  hetero: false
+  special: MyText
+  story: MyText
