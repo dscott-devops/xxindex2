@@ -21,11 +21,9 @@ test:
   database: db/test.sqlite3
 
 production:
-  adapter: mysql2
-  encoding: utf8
-  reconnect: false
+  adapter: postgresql
+  encoding: unicode
   database: xxindex
   pool: 5
   username: deploy
   password: 99DaBus0!!
-  socket: /tmp/mysql.sock
