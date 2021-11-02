@@ -50,8 +50,7 @@ document.addEventListener("DOMContentLoaded", function(event) {
   linkColor.forEach(l => l.addEventListener('click', colorLink))
     // Your code to run since DOM is loaded and ready
 });
-</script>
-<script>
+
 function openNav() {
   if(document.getElementById("mySidenav").style.width == "0px") {
     document.getElementById("mySidenav").style.width = "250px";
